@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VERILOG PROJECTS/FIFO
+T_opt
+!s110 1704455718
+Vlfzmod2LNU7k8Kl0z?CQ:3
+04 7 4 work fifo_tb fast 0
+=1-7c8ae106be20-6597ee24-2a3-aa4
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vfifo
+Z2 !s110 1704455712
+!i10b 1
+!s100 EES92]<BA9E2bN?9c<za;3
+IWaDTQ>YF2dYUWTEOSckc51
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1704455577
+8fifo.v
+Ffifo.v
+L0 2
+Z4 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z5 !s108 1704455712.000000
+Z6 !s107 fifo_tb.v|fifo.v|
+Z7 !s90 -reportprogress|300|fifo.v|fifo_tb.v|+acc|
+!i113 0
+Z8 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vfifo_tb
+R2
+!i10b 1
+!s100 NVTJ9]aPDZX_39CCe=]km2
+IX:oSlQ2=]k9D2l^@VJ4^X3
+R3
+R0
+w1704455707
+8fifo_tb.v
+Ffifo_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
